@@ -1,6 +1,7 @@
 <?php
 
 namespace Database\Seeders;
+$this->call(TablaLoginSeeder::class);
 
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
